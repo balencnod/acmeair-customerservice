@@ -1,0 +1,17 @@
+com\acmeair\config\CustomerConfiguration.class
+com\acmeair\service\KeyGenerator.class
+com\acmeair\web\CustomerServiceRest.class
+com\acmeair\web\CustomerServiceApp.class
+com\acmeair\health\CustomerLivenessHealthCheck.class
+com\acmeair\mongo\MongoProperties.class
+com\acmeair\web\CustomerServiceRestInternal.class
+com\acmeair\web\dto\CustomerInfo.class
+com\acmeair\mongo\services\CustomerServiceImpl.class
+com\acmeair\mongo\MongoProducer.class
+com\acmeair\web\LoginResponse.class
+com\acmeair\web\MilesResponse.class
+com\acmeair\config\CustomerLoaderRest.class
+com\acmeair\health\CustomerReadinessHealthCheck.class
+com\acmeair\web\dto\AddressInfo.class
+com\acmeair\loader\CustomerLoader.class
+com\acmeair\service\CustomerService.class
